@@ -38,6 +38,17 @@ Artists are placed by total releases and notable releases, split at the medians 
 
 ![Identifying rising stars](images/04-rising-stars-quadrant.png)
 
+## Feedback and what I would improve
+
+The marker described the group's discussion and results as good, and the reflection as strong, especially in the last task. The visual design was seen as simple, and some charts were not clear until the explanation was read.
+
+If I extended this project, I would:
+- Put the main finding in each chart title, so the chart can be understood without the report.
+- Label artists directly on the charts instead of relying on a colour legend.
+- Add a one-line caption under each chart that says what to look at.
+- Simplify the crowded bar chart of key metrics by showing fewer artists and fewer colours.
+- Ask someone who has not read the report to explain each chart back to me, and fix whatever they get wrong.
+
 ## Limitations
 
 - The score weights were chosen by hand to favour recent activity. They were not fitted to data or validated.
