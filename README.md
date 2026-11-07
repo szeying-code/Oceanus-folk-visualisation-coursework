@@ -68,7 +68,7 @@ If I extended this project, I would:
 
 ## Running the R script
 
-The data file (`data.json`) is included in this repository.
+The data file (`data.json`) is included in this repository.The data is synthetic and was provided by the COMP3087 teaching team. It is described in `docs/description.pdf`.
 
 1. Install R and the packages `jsonlite`, `dplyr` and `tidyr`.
 2. Open a terminal in the main folder of this repository, next to `data.json`.
