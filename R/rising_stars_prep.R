@@ -1,8 +1,8 @@
 # Task 3 data preparation: Oceanus Folk artist analysis
-# Reads data.json (the music knowledge graph provided with the module, not included here)
+# Reads data.json (the music knowledge graph provided with the module, included in this repository)
 # and writes the files used by the Observable visualisations:
 #   timeline.csv, network.json, metrics.csv, potential_stars_all.csv
-# Run from the folder that contains data.json:  Rscript rising_stars_prep.R
+# Run from the main folder of the repository:  Rscript R/rising_stars_prep.R
 
 # Load libraries
 library(jsonlite)
