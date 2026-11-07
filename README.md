@@ -64,7 +64,7 @@ If I extended this project, I would:
 | `images/` | Screenshots of the four visualisations |
 | `docs/task3-notebook-printout.pdf` | Printout of my Task 3 notebook pages, including the code and the write-up |
 | `data.json` | The music knowledge graph provided with the module |
-| `docs/YOUR-PDF-NAME.pdf` | The coursework description (task brief) |
+| `docs/description.pdf` | The coursework description (task brief) |
 
 ## Running the R script
 
