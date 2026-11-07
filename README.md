@@ -63,13 +63,15 @@ If I extended this project, I would:
 | `R/rising_stars_prep.R` | R script that prepares the data for the notebook |
 | `images/` | Screenshots of the four visualisations |
 | `docs/task3-notebook-printout.pdf` | Printout of my Task 3 notebook pages, including the code and the write-up |
+| `data.json` | The music knowledge graph provided with the module |
+| `docs/YOUR-PDF-NAME.pdf` | The coursework description (task brief) |
 
 ## Running the R script
 
-The data file (`data.json`) was provided with the module and is not included here.
+The data file (`data.json`) is included in this repository.
 
 1. Install R and the packages `jsonlite`, `dplyr` and `tidyr`.
-2. Put `data.json` in the same folder as the script.
-3. Run `Rscript rising_stars_prep.R`.
+2. Open a terminal in the main folder of this repository, next to `data.json`.
+3. Run `Rscript R/rising_stars_prep.R`.
 
 It writes `timeline.csv`, `network.json`, `metrics.csv` and `potential_stars_all.csv`, which the Observable notebook reads.
