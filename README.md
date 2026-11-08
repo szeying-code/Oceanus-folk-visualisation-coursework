@@ -65,6 +65,7 @@ If I extended this project, I would:
 | `docs/task3-notebook-printout.pdf` | Printout of my Task 3 notebook pages, including the code and the write-up |
 | `data.json` | The music knowledge graph provided with the module |
 | `docs/description.pdf` | The coursework description (task brief) |
+| `report/oceanus-task3-report.pdf` | My Task 3 analysis and results (no code) |
 
 ## Running the R script
 
